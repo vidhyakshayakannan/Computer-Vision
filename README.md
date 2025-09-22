@@ -2,7 +2,7 @@
 
 **Sai University | School of Computing and Data Science | Fall 2025**  
 **Instructor:** Dr. Ram Prasad Krishnamoorthy  
-📧 ram.krish@saiuniversity.edu.in  
+
 
 ## Topics Covered
 
